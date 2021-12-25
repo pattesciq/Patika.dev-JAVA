@@ -1,7 +1,7 @@
 package Giris;
 import java.util.Scanner;
 
-    public class Baslangic {
+    public class DersOrtalamasi {
     public static void main(String[] args) {
         int mat, fizik ,turkce ,kimya ,muzik ,tarih;
 
@@ -35,6 +35,6 @@ import java.util.Scanner;
         System.out.println(str);
 
 
-        
+
     }
 }
